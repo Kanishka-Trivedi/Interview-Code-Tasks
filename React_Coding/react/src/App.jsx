@@ -3,6 +3,7 @@ import Counter from './components/Counter';
 import ToDo from './components/ToDo';
 import ToggleText from './components/ToggleText';
 import CharacterCount from './components/CharacterCount';
+import LiveSearch from './components/LiveSearch';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <ToDo />
       <ToggleText />
       <CharacterCount />
+      <LiveSearch />
       
     </>
   );
