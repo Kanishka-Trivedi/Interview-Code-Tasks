@@ -8,10 +8,12 @@ const names = [
   'Kitt',
   'Kanishka',
   'Khushbu',
-  'Dhruvesh Shyonara',
+  'Dhruvesh Shyara',
   'Arjun',
   'Rhys Larsen',
   'Ava',
+  'Morana',
+  'Tristian Caine',
 ];
 
 function LiveSearch() {
